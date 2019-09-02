@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A list containing most of my recent publications.
 type: ["Full Conference Paper" ,"Short Conference Paper","Workshop Paper","Poster" ]
 ---
 

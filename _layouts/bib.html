@@ -73,6 +73,9 @@
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
   {% endif %}
+  {% if entry.award %}
+    [<b><img style='height: 1.5em;vertical-align:middle;' src='/assets/img/trophy.png'> {{entry.award}}</b>]
+  {% endif %}
   {% if entry.supp %}
     [<a href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Supp</a>]
   {% endif %}
