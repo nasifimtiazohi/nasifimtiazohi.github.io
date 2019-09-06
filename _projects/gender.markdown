@@ -18,7 +18,7 @@ I, with my lab mates, continued the study of investigating the controversial <i>
 
 We formulated 12 hypotheses and tested them on the GitHub platform. Our results
 show that effects of gender bias are largely invisible on the
-GitHub platform itself. However, there are still signals of women concentrating their work in fewer places and being more restrained in communication than men. Our work was accepted at the International Conference on Software Engineering 2019 (ICSE) which is the top conference for the filed of software engineering. 
+GitHub platform itself. However, there are still signals of women concentrating their work in fewer places and being more restrained in communication than men. Our work was accepted at the International Conference on Software Engineering 2019 (ICSE) which is the top conference for the filed of software engineering. (Wohoo!)
 
 This project also resulted in another workshop paper where we evaluate the sentiment and politeness measurment tools on developer discussion on GitHub. We refer to this evaluation in the ICSE paper to discuss our use of natural language processing (NLP) tools in measuring the communication pattern of women vs men.
 
