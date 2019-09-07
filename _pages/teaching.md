@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv/
-title: CV
+permalink: /jj/
+title: test
 redirect: www.google.com
 ---
 
